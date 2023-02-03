@@ -9,10 +9,22 @@ body {
 
 h1 {
  color : goldenrod;
+ font-size: xx-large;
+ margin-top: 3px;
+ font-weight: bolder;
 
 }
+#message-el {
+ font-style: italic;
+}
+
+
 button {
  color: green;
  background-color: goldenrod;
  font-weight: bold;
+ margin-bottom: 2px;
+ padding: 5px;
+ border-radius: 10px;
+ width: 150px;
 }
