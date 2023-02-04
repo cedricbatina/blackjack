@@ -6,8 +6,14 @@ body {
  text-align: center;
  color: lavenderblush;
 }
-
+a {
+ text-decoration: none;
+ color: orangered;
+}
 h1 {
+ font-size: medium;
+}
+h2 {
  color : goldenrod;
  font-size: xx-large;
  margin-top: 3px;
